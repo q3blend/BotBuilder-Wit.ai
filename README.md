@@ -48,6 +48,10 @@ First, we added the Server Access Token. Now, we need to implement the "getMyFor
         }
 ```
 
+## NuGet
+
+https://www.nuget.org/packages/Microsoft.Bot.Builder.Witai/
+
 ## More Information
 Read these resources for more information about the Microsoft Bot Framework, Bot Builder SDK and Wit.ai Services:
 
