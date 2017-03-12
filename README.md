@@ -17,6 +17,9 @@ This is an integration between Wit.ai and Microsoft Bot Framework. Wit.ai allows
 ```
 where the action name is how you defined it in your application.
 
+## Use Case and Features
+This is useful when you want to create a bot using wit.ai for language understanding and conversation flow. Microsoft Bot Framework is useful for making it easy to publish on several channels and having a good code structure. It's a great place to implement your action and update the wit context variables as well.
+
 ## Sample
 ### Weather App
 The WitWeather sample uses [Wit.ai weather application](https://wit.ai/q3blend/weatherApp).
