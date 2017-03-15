@@ -6,8 +6,8 @@
     <title>Microsoft.Bot.Builder.Witai</title>
     <authors>Ahmed Osman</authors>
     <owners>Ahmed Osman</owners>
-    <licenseUrl>https://github.com/q3blend/BotBuilder-Witai/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/q3blend/BotBuilder-Witai</projectUrl>
+    <licenseUrl>https://github.com/q3blend/BotBuilder-Wit.ai/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/q3blend/BotBuilder-Wit.ai</projectUrl>
     <iconUrl>https://docs.botframework.com/images/bot_icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
